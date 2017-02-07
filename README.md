@@ -1,5 +1,5 @@
-# bitkar-meteor-angular
-Bitkar in Meteor &amp; Angular
+# meteor-angular
+Starter in Meteor &amp; Angular
 
 
 ## Install
@@ -8,9 +8,9 @@ Bitkar in Meteor &amp; Angular
 
  2. Copy project
     
-    $ git clone https://github.com/arangde/bitkar-meteor-angular.git
+    $ git clone https://github.com/danielfred1129/meteor-angular.git
     
-    $ cd bitkar-meteor-angular
+    $ cd meteor-angular
 
  3. Update meteor & npm
 
